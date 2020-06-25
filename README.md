@@ -1,4 +1,5 @@
-# weather_predictions for April 15, 2020 (for the 2020 Design, Build, Fly Competition in Witchita, KS)
+# weather_predictions 
+### For April 2020's 2020 Design, Build, Fly Competition in Witchita, KS
 
 This repository contains a proof of concept weather pressure Seasonal Autoregressive Integrated Moving Average (SARIMA) model. The purpose of the model is to predict what the air pressure will be for the 2020 Design, Build, Fly Competition. This prediction will be used as an input to the design process.
 
