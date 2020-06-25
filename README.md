@@ -1,8 +1,10 @@
-# weather_predictions
+# weather_predictions for April 15, 2020 (for the 2020 Design, Build, Fly Competition in Witchita, KS)
 
-This repository contains a proof of concept weather pressure Seasonal Autoregressive Integrated Moving Average (SARIMA) model.
+This repository contains a proof of concept weather pressure Seasonal Autoregressive Integrated Moving Average (SARIMA) model. The purpose of the model is to predict what the air pressure will be for the 2020 Design, Build, Fly Competition. This prediction will be used as an input to the design process.
 
 See the jupyter notebook for a thorough walkthrough of how I built the model and forecasted with it.
+
+**UPDATE** The actual air pressure for April 15, 2020 (scheduled first day of the DBF Competition) in Witchita, KS was 965.12 Millibars. The **model missed the mark by a measley ~.5 millibars**, as it predicted 964.76 millibars with a 95% condifence interval of [961.25, 968.27]. 
 
 
 Some of the sources/code used:
